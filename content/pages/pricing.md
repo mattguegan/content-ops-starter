@@ -30,7 +30,7 @@ sections:
           - label: Try for free
             url: /
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             type: Button
         colors: bg-neutral-fg-dark
