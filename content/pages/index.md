@@ -589,7 +589,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: center
       subtitle:
         textAlign: center
   - title:
